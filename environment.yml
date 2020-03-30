@@ -1,3 +1,4 @@
+name: nanosolveit-nb
 channels:
   - conda-forge
 dependencies:
