@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - rasterio
+  - netCDF4
+  - pandas
+  - geopandas
+  - plotly
