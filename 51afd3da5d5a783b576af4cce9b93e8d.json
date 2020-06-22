@@ -1,0 +1,24 @@
+{
+    "userId": "3abf848d-e297-4e68-8072-2dd1ced89505",
+    "properties": {
+        "description": "point",
+        "date": 1592567238144,
+        "saved": true,
+        "form": "Pristine",
+        "compartment": "Soil",
+        "temporalProfile": "P1",
+        "emission": "100",
+        "nanomaterial": "TiO2",
+        "title": "point "
+    },
+    "geometry": {
+        "coordinates": [
+            -0.2612197374969867,
+            51.53916562746193
+        ],
+        "type": "Point"
+    },
+    "type": "Feature",
+    "_id": "51afd3da5d5a783b576af4cce9b93e8d",
+    "id": "51afd3da5d5a783b576af4cce9b93e8d"
+}

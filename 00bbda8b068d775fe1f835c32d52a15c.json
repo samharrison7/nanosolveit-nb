@@ -1,0 +1,43 @@
+{
+    "userId": "3abf848d-e297-4e68-8072-2dd1ced89505",
+    "properties": {
+        "description": "second",
+        "date": 1592224776511,
+        "nanomaterial": "TiO2",
+        "form": "Matrix embedded",
+        "compartment": "Surface water",
+        "emission": "1000",
+        "saved": true,
+        "title": "aerial"
+    },
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -0.22358567392797113,
+                    51.59417834178015
+                ],
+                [
+                    -0.2273235804894398,
+                    51.558797354342516
+                ],
+                [
+                    -0.17959338900479338,
+                    51.559333635412685
+                ],
+                [
+                    -0.16147891874280162,
+                    51.60364433752355
+                ],
+                [
+                    -0.22358567392797113,
+                    51.59417834178015
+                ]
+            ]
+        ],
+        "type": "Polygon"
+    },
+    "id": "00bbda8b068d775fe1f835c32d52a15c",
+    "_id": "00bbda8b068d775fe1f835c32d52a15c",
+    "type": "Feature"
+}
